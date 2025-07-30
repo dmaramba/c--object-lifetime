@@ -40,4 +40,4 @@ This repository explores key C# concepts related to object lifetime, including p
 
 ## Purpose
 
-This project is intended as a teaching aid or self-study resource for understanding how C# manages object memory, finalization, and cleanup patterns.
+This project is intended as a self-study resource for understanding how C# manages object memory, finalization, and cleanup patterns.
